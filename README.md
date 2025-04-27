@@ -1,5 +1,6 @@
 
 Below are **step-by-step, up-to-date commands** for both CTI-WEB (manager) and CTI-DB (worker), including best practices from the latest official documentation.
+Please note that scripts are only being used for the first time when we do the deployment, and after that, in the environment we can change the version if we need to update it.
 
 ---
 
